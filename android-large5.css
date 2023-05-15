@@ -1,0 +1,51 @@
+.android-large5-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.android-large5-android-large5 {
+  width: 100%;
+  height: 800px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 255, 40, 1);
+}
+.android-large5-navlink {
+  display: contents;
+}
+.android-large5-star1 {
+  top: 544px;
+  left: 124px;
+  width: 111px;
+  height: 111px;
+  position: absolute;
+  text-decoration: none;
+}
+.android-large5-text {
+  top: 203px;
+  left: 50px;
+  color: rgba(255, 0, 198, 1);
+  height: auto;
+  position: absolute;
+  font-size: 72px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Dynalight;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.android-large5-giphy1 {
+  top: 308px;
+  left: 67px;
+  width: 226px;
+  height: 206px;
+  position: absolute;
+}

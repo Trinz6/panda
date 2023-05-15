@@ -1,0 +1,112 @@
+.android-large1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.android-large1-android-large1 {
+  width: 100%;
+  height: 800px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.android-large1-frog-spin1 {
+  top: 0px;
+  left: 0px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+.android-large1-frog-spin2 {
+  top: 200px;
+  left: 0px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+.android-large1-frog-spin3 {
+  top: 400px;
+  left: 0px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+.android-large1-frog-spin4 {
+  top: 600px;
+  left: 0px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+.android-large1-frog-spin41 {
+  top: 600px;
+  left: 0px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+.android-large1-hmfrogtoad1 {
+  top: 0px;
+  left: 200px;
+  width: 160px;
+  height: 160px;
+  position: absolute;
+}
+.android-large1-hmfrogtoad3 {
+  top: 320px;
+  left: 200px;
+  width: 160px;
+  height: 160px;
+  position: absolute;
+}
+.android-large1-hmfrogtoad2 {
+  top: 160px;
+  left: 200px;
+  width: 160px;
+  height: 160px;
+  position: absolute;
+}
+.android-large1-hmfrogtoad4 {
+  top: 480px;
+  left: 200px;
+  width: 160px;
+  height: 160px;
+  position: absolute;
+}
+.android-large1-hmfrogtoad5 {
+  top: 640px;
+  left: 200px;
+  width: 160px;
+  height: 160px;
+  position: absolute;
+}
+.android-large1-giphy11 {
+  top: 289px;
+  left: 69px;
+  width: 222px;
+  height: 222px;
+  position: absolute;
+}
+.android-large1-navlink {
+  display: contents;
+}
+.android-large1-star1 {
+  top: 544px;
+  left: 124px;
+  width: 111px;
+  height: 111px;
+  position: absolute;
+  text-decoration: none;
+}
+@media(max-width: 479px) {
+  .android-large1-frogspin4 {
+    left: 0px;
+    bottom: -187px;
+  }
+}
